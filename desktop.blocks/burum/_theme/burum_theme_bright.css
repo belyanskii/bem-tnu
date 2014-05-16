@@ -1,0 +1,9 @@
+.burum_theme_bright
+{
+    background: linear-gradient(to right, rgba(210,255,82,1) 0%,rgba(145,232,66,1) 100%);
+}
+
+.burum_theme_bright .burum__content
+{
+    background: #fff;
+}

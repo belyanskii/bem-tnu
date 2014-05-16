@@ -1,0 +1,32 @@
+.burum
+{
+    width: 60%;
+    margin: 40px auto;
+    padding: 40px;
+
+    border-radius: 10px;
+
+    border: 1px solid #ccc;
+}
+
+.burum__title
+{
+    font-size: 200%;
+
+    color: #3d3d3d;
+}
+
+.burum__past
+{
+    width: 88%;
+    margin-right: 10px;
+}
+
+.burum__content
+{
+    min-height: 100px;
+    margin: 10px 0;
+    padding: 10px;
+
+    border: 1px solid #ccc;
+}
